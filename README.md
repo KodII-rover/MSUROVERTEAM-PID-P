@@ -11,7 +11,7 @@
 
 ### Структура проекта eureka_pid/
 
-* **eureka_pid/**
+* **MSUROVERTEAM-PID-P/**
     * **include/eureka_jerk/**
         * `controller.hpp` — main класс наследующий интерфейс контроллера
         * `path_handler.hpp` — вспомогательный класс для работы с path
