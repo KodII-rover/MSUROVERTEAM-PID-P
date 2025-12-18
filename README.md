@@ -9,7 +9,7 @@
 **Платформа:** 
 *   ROS2 Humble (Robot Operating System 2 версии Humble).
 
-### Структура проекта eureka_pid/
+### Структура проекта
 
 * **MSUROVERTEAM-PID-P/**
     * **include/eureka_jerk/**
