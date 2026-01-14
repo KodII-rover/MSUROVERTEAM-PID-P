@@ -6,6 +6,15 @@
 
 Пропорциональный коэффициент (**Kp=1**) расчитывался по Методу Циглера-Никольса во время испытаний реального ровера .
 
+## Лицензирование (License)
+
+Данный Программный продукт распространяется на условиях двойного лицензирования: (This software is dual-licensed):
+
+- MIT License (see [LICENSE](https://github.com/KodII-rover/MSUROVERTEAM-PID-P/blob/main/LICENSE))
+- Открытая простая лицензия (Russian Open License) (see [GENERAL_LICENSE-RF-RC.md](https://github.com/KodII-rover/MSUROVERTEAM-PID-P/blob/main/GENERAL_LICENSE-RF-RC.md))
+
+Вы можете использовать этот проект на условиях любой из лицензий (You may use this project under the terms of either license).
+
 **Платформа:** 
 *   ROS2 Humble (Robot Operating System 2 версии Humble).
 
